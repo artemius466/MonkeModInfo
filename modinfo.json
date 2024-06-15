@@ -79,7 +79,7 @@
     "author": "bobbievr",
     "version": "1.6.13",
     "git_path": "legoandmars/Utilla",
-    "group": "Core",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.13/Utilla.zip"
   },
   {
@@ -89,5 +89,13 @@
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+  },
+  {
+    "name": "YizziCamModV2",
+    "author": "Yizzii",
+    "version": "1.0.8",
+    "git_path": "Yizzii/YizziCamModV2",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
   }
 ]
