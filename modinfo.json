@@ -75,20 +75,12 @@
     "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.2/TicTacToe.dll"
   },
   {
-    "name": "Utilla",
+    "name": "Utilla (BROKEN)",
     "author": "bobbievr",
     "version": "1.6.13",
     "git_path": "legoandmars/Utilla",
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.13/Utilla.zip"
-  },
-  {
-    "name": "bHaptics",
-    "author": "Florian Fahrenberger",
-    "version": "3.0.1",
-    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
   },
   {
     "name": "YizziCamModV2",
@@ -97,5 +89,27 @@
     "git_path": "Yizzii/YizziCamModV2",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
-  }
+  },
+  {
+    "name": "Monke Dimensions",
+    "author": "Chin0303",
+    "version": "1.2.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Chin0303/Monke-Dimensions",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Chin0303/Monke-Dimensions/releases/download/1.2.3/MonkeDimensions.1.2.3.Release.zip"
+  },
+  {
+    "name": "Legs",
+    "author": "SteveTheAnimator",
+    "version": "1.0.7",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SteveTheAnimator/Legs/releases",
+    "group": "Cursed Mods",
+    "download_url": "https://github.com/SteveTheAnimator/Legs/releases/download/legnewyear/LegMod.dll"
+  },
 ]
