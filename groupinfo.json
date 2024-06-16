@@ -18,5 +18,9 @@
   {
     "name" : "Libraries",
     "rank" : 4
+  },
+  {
+    "name" : "Cursed Mods",
+    "rank" : 5
   }
 ]
