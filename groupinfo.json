@@ -1,26 +1,22 @@
 [
   {
-    "name" : "Core",
+    "name" : "Ядро",
     "rank" : 0
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Визуальные",
     "rank" : 1
   },
   {
-    "name" : "Gameplay",
+    "name" : "Геймплей",
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Инструменты",
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "Библиотеки",
     "rank" : 4
-  },
-  {
-    "name" : "Cursed Mods",
-    "rank" : 5
   }
 ]
