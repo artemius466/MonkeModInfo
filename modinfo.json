@@ -107,6 +107,14 @@
     "download_url": "http://45.143.164.142:8000/BananaOS.dll"
   },
   {
+    "name": "Gorilla Menu",
+    "author": "Wryser",
+    "version": "1.1.0",
+    "git_path": "wryser/Gorilla-Menu",
+    "group": "Ядро",
+    "download_url": "http://45.143.164.142:8000/GorillaMenu.dll"
+  },
+  {
     "name": "Custom Cosmetics",
     "author": "Wryser",
     "version": "1.2.4",
@@ -178,4 +186,15 @@
     "group": "Визуальные",
     "download_url": "http://45.143.164.142:8000/Clock.dll"
   },
+  {
+    "name": "Wryser's Go Pro",
+    "author": "Wryser",
+    "version": "4.3.0",
+    "dependencies": [
+      "Gorilla Menu"
+    ],
+    "git_path": "wryser/Wrysers-GoPro",
+    "group": "Визуальные",
+    "download_url": "http://45.143.164.142:8000/WrysersGoPro.dll"
+  }
 ]
