@@ -75,9 +75,6 @@
     "name": "GorillaCookieClicker",
     "author": "TraqVR",
     "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
     "git_path": "TraqVR/GorillaCookieClicker",
     "group": "Визуальные",
     "download_url": "https://github.com/TraqVR/GorillaCookieClicker/releases/download/cookieclickv1.0.1/GorillaCookieClicker.dll"
@@ -113,6 +110,10 @@
     "name": "Custom Cosmetics",
     "author": "Wryser",
     "version": "1.2.4",
+    "dependencies": [
+      "Utilla",
+      "BananaOS"
+    ],
     "git_path": "wryser/CustomCosmetics",
     "group": "Визуальные",
     "download_url": "http://45.143.164.142:8000/CustomCosmetics.zip"
@@ -121,6 +122,10 @@
     "name": "Gorilla Server Stats",
     "author": "Its3rr0rsWRLD, fix by Artemius466",
     "version": "1.0.8",
+    "dependencies": [
+      "Utilla",
+      "HoneyLib"
+    ],
     "git_path": "Its3rr0rsWRLD/GorillaStats",
     "group": "Визуальные",
     "download_url": "http://45.143.164.142:8000/GorillaServerStats.dll"
@@ -129,8 +134,48 @@
     "name": "Gsaber Remastered",
     "author": "LEPHROGFISH",
     "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
     "git_path": "LEPHROGFISH/Gsabers-Remastered",
     "group": "Визуальные",
     "download_url": "http://45.143.164.142:8000/GSabersRemaster.dll"
+  },
+  {
+    "name": "Chained Together",
+    "author": "Husky",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "BananaOS"
+    ],
+    "git_path": "",
+    "group": "Геймплей",
+    "download_url": "http://45.143.164.142:8000/Chained.Together.dll"
+  },
+  {
+    "name": "GorillaCraft",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Bepinject",
+      "Extenject",
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "developer9998/GorillaCraft",
+    "group": "Геймплей",
+    "download_url": "http://45.143.164.142:8000/GorillaCraft.dll"
+  },
+  {
+    "name": "Clock",
+    "author": "SteveTheAnimator",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "",
+    "group": "Визуальные",
+    "download_url": "http://45.143.164.142:8000/Clock.dll"
   },
 ]
